@@ -30,7 +30,20 @@ tags: [ "ステイホーム" ]
 　  
 ![そういえば菜の花も](images/2020-0430-03.jpg)  
 　  
- 
+Netflixオリジナルの「オルタード・カーボン」はハマりました。こういうSFが凄く好き。
+{{< raw >}}
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 75%; padding-top: 120px;"><a href="https://www.netflix.com/title/80097140" data-iframely-url="//cdn.iframe.ly/kTRULfn"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{{< /raw >}}
+　  
+「攻殻機動隊SAC_2045」も面白い。
 {{< raw >}}
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.5%; padding-top: 120px;"><a href="https://www.ghostintheshell-sac2045.jp/" data-iframely-url="//cdn.iframe.ly/p1B2DlC"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 {{< /raw >}}
+　  
+　  
+「虐殺器官」のアニメ版をNetflixで見ましたが、これも凄く面白かった。原作を読まなくては・・・。  
+{{< amazon category="ama" key="gyakusatsu" >}}
+　  
+　  
+「オールニードイズキル」も面白かったです。気になる映画はこの際全部見ておきたい。  
+{{< amazon category="ama" key="allneediskill" >}}
