@@ -24,6 +24,12 @@ tags: [ "ステイホーム" ]
 　  
 ![4月始めに撮った桜](images/20200430-01.jpg)  
 　  
+![これもそう](images/2020-0430-02.jpg)  
+　  
+![桜は良い・・・](images/2020-0430-04.jpg)  
+　  
+![そういえば菜の花も](images/2020-0430-03.jpg)  
+　  
  
 {{< raw >}}
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 52.5%; padding-top: 120px;"><a href="https://www.ghostintheshell-sac2045.jp/" data-iframely-url="//cdn.iframe.ly/p1B2DlC"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
