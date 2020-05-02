@@ -45,5 +45,5 @@ Netflixオリジナルの「オルタード・カーボン」はハマりまし�
 {{< amazon category="ama" key="gyakusatsu" >}}
 　  
 　  
-「オールニードイズキル」も面白かったです。気になる映画はこの際全部見ておきたい。  
+「オール・ユー・ニード・イズ・キル 」も面白かったです。気になる映画はこの際全部見ておきたい。  
 {{< amazon category="ama" key="allneediskill" >}}
