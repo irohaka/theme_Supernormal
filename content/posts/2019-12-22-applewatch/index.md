@@ -6,7 +6,7 @@ date: 2019-12-22T14:30:40+09:00
 url: /AppleWatch-to-Strava
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: ["サイクルコンピューター"]
+tags: ["AppleWatch","サイクルコンピューター"]
 ---
 
 

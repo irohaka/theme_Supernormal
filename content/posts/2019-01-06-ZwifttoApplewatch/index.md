@@ -6,7 +6,7 @@ date: 2019-01-06T13:29:09+00:00
 url: /AppleWatchandZwift
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"
-tags: [ "Zwift","自転車のはなし" ]
+tags: [ "Zwift","スマートトレーナー","AppleWatch" ]
 ---
 
 AppleWatchのリングを完成させるのが思ったより大変だなぁと思っていたところ、Zwiftの心拍計に使えると記事を読んだので試してみました。  <!--more-->
