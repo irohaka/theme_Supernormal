@@ -442,11 +442,22 @@ li.related {
 .pagenotfound {
   text-align: center;
 }
+
+/** pagination  **/
 div.pagination {
+  font-style: normal;
   flex-basis: 100%;
   padding-top: 100px;
   margin: auto;
 }
+
+ul.pagination li{
+  padding: 8px;
+}
+
+
+/*** end of pagination **/
+
 
 ul.pagination {
   margin: 0;
