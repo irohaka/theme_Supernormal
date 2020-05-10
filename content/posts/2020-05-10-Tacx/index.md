@@ -1,5 +1,5 @@
 ---
-title: "Tacxにリアディレイラーが当たる問題"
+title: "Tacxからカリカリ音がする問題"
 author: irohaka
 type: post
 date: 2020-05-10T13:00:00+09:00
