@@ -6,6 +6,7 @@ date: 2010-05-14T20:00:00+09:00
 url: /2010_05_14_yukiya
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2010/05"]
 tags: [ "ロードレース" ]
 ---
 

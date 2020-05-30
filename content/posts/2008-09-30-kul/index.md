@@ -6,6 +6,7 @@ date: 2008-09-30T06:02:00+09:00
 url: /2008_kul_travel
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2008/09"]
 tags: [ "旅行" ]
 ---
 

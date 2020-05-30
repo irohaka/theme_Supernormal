@@ -3,6 +3,7 @@ title: "古地図で見る旧田口線"
 author: irohaka
 type: post
 date: 2019-09-15T16:45:46+09:00
+archives : ["2019/09"]
 url: /taguchisencycling
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

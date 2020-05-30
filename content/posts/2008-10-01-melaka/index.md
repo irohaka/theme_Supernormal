@@ -6,6 +6,7 @@ date: 2008-10-02T00:15:00+09:00
 url: /2008_melaka_travel
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2008/10"]
 tags: [ "旅行" ]
 ---
 

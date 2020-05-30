@@ -6,6 +6,7 @@ date: 2008-12-26T12:05:00+09:00
 url: /2008_12_katusha
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2008/12"]
 tags: [ "ロードレース" ]
 ---
 

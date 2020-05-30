@@ -6,6 +6,7 @@ date: 2010-12-12T22:13:00+09:00
 url: /2010_12_12_nipponopen
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2010/12"]
 tags: [ "自転車のはなし" ]
 ---
 

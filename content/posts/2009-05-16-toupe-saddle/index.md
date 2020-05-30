@@ -6,6 +6,7 @@ date: 2009-05-16T16:18:00+09:00
 url: /2009_05_16_saddle-toupe
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2009/05"]
 tags: [ "サドル" ]
 ---
 

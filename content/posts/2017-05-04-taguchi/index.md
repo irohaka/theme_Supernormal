@@ -3,6 +3,7 @@ title: 失われた田口線を求めて〜設楽のほう
 author: irohaka
 type: post
 date: 2017-05-04T08:48:33+00:00
+archives : ["2017/05"]
 url: /rechercher_extaguchi
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

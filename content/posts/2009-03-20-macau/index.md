@@ -6,6 +6,7 @@ date: 2009-03-20T23:16:00+09:00
 url: /2009_03_20_macau
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2009/03"]
 tags: [ "旅行" ]
 ---
 

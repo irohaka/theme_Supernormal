@@ -7,6 +7,7 @@ url: /2008_hkg-kul
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
 tags: [ "旅行" ]
+archives : ["2008/09"]
 ---
 
 香港にやってきました。飛行機に乗っただけなのに疲れた・・・。  

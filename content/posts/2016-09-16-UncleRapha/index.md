@@ -3,6 +3,7 @@ title: Raphaおじさんになったわけ
 author: irohaka
 type: post
 date: 2016-09-16T03:09:05+00:00
+archives : ["2016/09"]
 url: /uncleRapha
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

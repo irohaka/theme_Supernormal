@@ -3,6 +3,7 @@ title: "桜をもとめ東へ西へ"
 author: irohaka
 type: post
 date: 2020-03-26T16:33:00+09:00
+archives : ["2020/03"]
 url: /2020sakura
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
@@ -11,7 +12,7 @@ tags: [ "サイクリング" ]
 
 いよいよ市内の桜が本格的に咲き始めたので自転車で見に行ってきました。
 <!--more-->
-<br>
+
 
 ### 三明寺の枝垂れ桜
 三明寺は豊川駅から徒歩15分ほどの場所にあるお寺で、国の重要文化財である三重塔が有名です。  
@@ -38,6 +39,6 @@ tags: [ "サイクリング" ]
 　　  
 ![春です。](images/2020-0326-05.jpg)
 　  
-Google Mapには道が反映されていませんのでご注意願います。  
+Google Mapには道が反映されていませんのでご注意ください。  
 　  
 {{< iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3750.629580264532!2d137.31096939567985!3d34.83153657736305!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x883fd19c1b2e44b7!2z56m06Kaz6Z-z5Y-k5aKz!5e0!3m2!1sja!2sjp!4v1585220755876!5m2!1sja!2sjp" >}}

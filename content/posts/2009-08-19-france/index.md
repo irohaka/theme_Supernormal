@@ -6,6 +6,7 @@ date: 2009-08-19T03:12:00+09:00
 url: /2009_08_19_france01
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2009/08"]
 tags: [ "フランス" ]
 ---
 

@@ -6,6 +6,7 @@ date: 2008-10-05T20:06:00+09:00
 url: /2008_10_hongkongPanda
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2008/10"]
 tags: [ "旅行" ]
 ---
 

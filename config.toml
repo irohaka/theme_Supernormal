@@ -23,6 +23,7 @@ disqusShortname = "irohaka-netlify-com"
 
 [taxonomies]
     tag = "tags"
+    archive = "archives"
 
 
 [markup]

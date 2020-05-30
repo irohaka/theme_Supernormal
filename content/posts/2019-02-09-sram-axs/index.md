@@ -3,6 +3,7 @@ title: SRAM AXS™ワイヤレス電動コンポーネント登場
 author: irohaka
 type: post
 date: 2019-02-09T08:34:38
+archives : ["2019/02"]
 url: /SRAM_AXS
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

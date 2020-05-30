@@ -3,6 +3,7 @@ title: 東三河地方の豊川市近辺ライド
 author: irohaka
 type: post
 date: 2016-06-04T08:51:12+00:00
+archives : ["2016/06"]
 url: /toyokawa-cycling-guide
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

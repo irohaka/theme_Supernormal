@@ -6,6 +6,7 @@ date: 2008-10-06T18:22:00+09:00
 url: /2008_10_06_shekou
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2008/10"]
 tags: [ "旅行" ]
 ---
 

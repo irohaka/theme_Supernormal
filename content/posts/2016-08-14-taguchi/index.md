@@ -3,6 +3,7 @@ title: 失われた旧田口線を求めて
 author: irohaka
 type: post
 date: 2016-08-14T03:06:35+00:00
+archives : ["2016/08"]
 url: /rechercher_lechemin_taguchi
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

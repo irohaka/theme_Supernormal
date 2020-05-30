@@ -6,6 +6,7 @@ date: 2009-01-13T21:14:00+09:00
 url: /2009_01_mavicwintech
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2009/01"]
 tags: [ "サイクルコンピューター" ]
 ---
 

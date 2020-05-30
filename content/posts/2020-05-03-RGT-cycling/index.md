@@ -3,6 +3,7 @@ title: "RGT Cyclingを試してみた。"
 author: irohaka
 type: post
 date: 2020-05-03T13:00:00+09:00
+archives : ["2020/05"]
 url: /20200503_RGTcycling
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"

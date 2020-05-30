@@ -1,8 +1,9 @@
 ---
-title: "Tacxからカリカリ音がする問題"
+title: "Tacxからカリカリ音がする…"
 author: irohaka
 type: post
 date: 2020-05-10T13:00:00+09:00
+archives : ["2020/05"]
 url: /20200510_TacxRearDerailleur
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"

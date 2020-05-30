@@ -3,6 +3,7 @@ title: "四谷の千枚田へ "
 author: irohaka
 type: post
 date: 2019-11-04T17:22:05+09:00
+archives : ["2019/11"]
 url: /yotsuya-senmaida
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

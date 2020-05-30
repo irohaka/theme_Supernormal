@@ -6,6 +6,7 @@ date: 2009-06-02T20:53:00+09:00
 url: /2009_06_02_toyohashi_zoo
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2009/06"]
 tags: [ "おでかけ" ]
 ---
 

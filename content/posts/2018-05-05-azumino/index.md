@@ -3,6 +3,7 @@ title: 安曇野をサイクリング
 author: irohaka
 type: post
 date: 2018-05-05T07:18:26+00:00
+archives : ["2018/05"]
 url: /azumino_cycling
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

@@ -6,6 +6,7 @@ date: 2009-03-13T20:10:00+09:00
 url: /2009_03_13_shekou2009
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2009/03"]
 tags: [ "旅行" ]
 ---
 

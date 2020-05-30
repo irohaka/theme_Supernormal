@@ -3,6 +3,7 @@ title: "もともとステイホーム"
 author: irohaka
 type: post
 date: 2020-04-30T16:33:00+09:00
+archives : ["2020/04"]
 url: /202004stayhome
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"

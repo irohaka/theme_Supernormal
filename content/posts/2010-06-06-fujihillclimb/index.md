@@ -6,6 +6,7 @@ date: 2010-06-06T19:12:00+09:00
 url: /2010_06_06_fuji-hillclimb
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2010/06"]
 tags: [ "自転車のはなし" ]
 ---
 

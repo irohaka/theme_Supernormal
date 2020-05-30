@@ -3,6 +3,7 @@ title: サイクリング楽しかった！
 author: irohaka
 type: post
 date: 2017-03-19T10:02:32+00:00
+archives : ["2017/03"]
 url: /201703cycling
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

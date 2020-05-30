@@ -3,6 +3,7 @@ title: Specialized S-works Roubaix SL4
 author: irohaka
 type: post
 date: 2016-05-08T04:53:08+00:00
+archives : ["2016/05"]
 url: /Specialized_RoubaixSL4
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

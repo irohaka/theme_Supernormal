@@ -3,6 +3,7 @@ title: オレゴンのハンドメイドバイク
 author: irohaka
 type: post
 date: 2017-02-20T12:39:59+00:00
+archives : ["2017/02"]
 url: /oregon_handmade_bikes
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

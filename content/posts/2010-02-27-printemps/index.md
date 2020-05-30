@@ -6,6 +6,7 @@ date: 2010-02-27T19:20:00+09:00
 url: /2010_02_27_printemps
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2010/02"]
 tags: [ "自転車のはなし" ]
 ---
 

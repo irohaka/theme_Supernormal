@@ -6,6 +6,7 @@ date: 2010-11-13T21:01:00+09:00
 url: /2010_11_13_cyclemode
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2010/11"]
 tags: [ "自転車のはなし" ]
 ---
 

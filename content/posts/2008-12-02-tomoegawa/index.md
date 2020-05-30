@@ -6,6 +6,7 @@ date: 2008-12-02T10:01:00+09:00
 url: /2008_12_tomoegawa
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2008/12"]
 tags: [ "自転車のはなし" ]
 ---
 

@@ -6,6 +6,7 @@ date: 2009-03-15T23:12:00+09:00
 url: /2009_03_15_chinafolksvillage
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2009/03"]
 tags: [ "旅行" ]
 ---
 

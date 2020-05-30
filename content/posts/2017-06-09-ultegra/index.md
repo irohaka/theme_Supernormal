@@ -3,7 +3,8 @@ title: R8000系アルテグラは結局全部でお幾らするのですか？(2
 author: irohaka
 type: post
 date: 2019-09-02T09:45:28+09:00
-url: /howmuchtotalyR8000
+archives : ["2019/09"]
+url: /ultegraR8000price
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"
 tags: [ "自転車のはなし" , "コンポーネント" ]

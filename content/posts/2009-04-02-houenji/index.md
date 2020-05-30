@@ -6,6 +6,7 @@ date: 2009-04-02T19:31:00+09:00
 url: /2009_04_02_houenji
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2009/04"]
 tags: [ "豊川市" ]
 ---
 

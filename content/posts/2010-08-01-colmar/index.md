@@ -6,6 +6,7 @@ date: 2010-08-01T04:17:00+09:00
 url: /2010_08_01_colmar
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2010/08"]
 tags: [ "フランス" ]
 ---
 

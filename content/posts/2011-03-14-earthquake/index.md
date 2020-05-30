@@ -6,6 +6,7 @@ date: 2011-03-14T20:00:00+09:00
 url: /2011_03_14_commencaldh
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2011/03"]
 tags: [ "災害" ]
 ---
 

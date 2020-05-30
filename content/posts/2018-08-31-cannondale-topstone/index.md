@@ -3,6 +3,7 @@ title: Cannondale TOPSTONE
 author: irohaka
 type: post
 date: 2018-08-31T14:39:20+00:00
+archives : ["2018/08"]
 url: /Cannondale_TOPSTONE
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"
@@ -23,17 +24,16 @@ tags: [ "Cannondale","自転車のはなし" ]
 　  * ドロッパーポスト搭載  
 　  * サドルはFabric Scoop Radius Sport  
 　  * タイヤはWTB Nano TCS, 700 x 40c（チューブレスレディ）  
-<br>
+　  
 これで220,000円（たぶん税抜）  
 [Topstone Apex 1 キャノンデール | Cannondale Bicycles](https://www.cannondale.com/ja-JP/Japan/Bike/ProductDetail?Id=f998de23-2c70-496b-bcea-aef2cc40bbf5&#038;parentid=undefined) 
-<br>
-<br>
+　  
 これは買ったら買い換えがちなタイヤとかサドルなどのアイテムが最初から搭載しているのはいいですね。Fabricは僕には合うようで、デザインも好きですがサドルの乗り心地も気に入っています。Topstoneにはもっと安いモデルもありますが、一番高いこのモデルが僕はオススメしたいと思いますよ。コスパとかあんまり考えないほうが豊かに趣味を楽しむことができると思いますが、そうはいっても予算には限りがあります。その予算で最大限楽しみたいならAPEX1かなぁと思っています。あくまでも個人の意見ですけどね。  
+　  
 
-&nbsp; <br>
 ![Cannondale TOPSTONE APEX1](images/2018TOPSTONE_APEX1_Cannondale.jpg)  
 
-<br>
+　  
   
 {{< youtube 0b0MQtOaoQI >}}  
   

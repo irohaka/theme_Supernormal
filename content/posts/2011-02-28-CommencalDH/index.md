@@ -6,6 +6,7 @@ date: 2011-02-28T12:22:00+09:00
 url: /2011_02_28_commencaldh
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2011/02"]
 tags: [ "自転車のはなし" ]
 ---
 

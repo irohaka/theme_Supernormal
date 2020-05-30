@@ -3,6 +3,7 @@ title: "茶臼山に行ってきました。"
 author: irohaka
 type: post
 date: 2015-10-30T11:33:15+09:00
+archives : ["2015/10"]
 url: /chausuyama_ride
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

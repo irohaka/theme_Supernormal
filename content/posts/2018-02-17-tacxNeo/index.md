@@ -3,6 +3,7 @@ title: Tacx Neo SmartでZwiftを始めました。
 author: irohaka
 type: post
 date: 2018-02-17T14:55:54+00:00
+archives : ["2018/02"]
 url: /TacxNeoSmart-Zwift
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

@@ -3,6 +3,7 @@ title: 4年ぶりのフランス（前編）
 author: irohaka
 type: post
 date: 2017-08-13T17:11:48+00:00
+archives : ["2017/08"]
 url: /france-part1
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

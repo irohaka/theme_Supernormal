@@ -6,6 +6,7 @@ date: 2009-12-30T23:20:00+09:00
 url: /2009_12_30_shekou
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2009/12"]
 tags: [ "中国" ]
 ---
 

@@ -3,6 +3,7 @@ title: 散歩用マウンテンバイク完成。
 author: irohaka
 type: post
 date: 2018-10-21T11:45:53+00:00
+archives : ["2018/10"]
 url: /custom_mtb
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

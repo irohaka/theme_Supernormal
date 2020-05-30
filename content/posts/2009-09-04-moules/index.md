@@ -6,6 +6,7 @@ date: 2009-09-06T05:36:00+09:00
 url: /2009_09_05_moules
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2009/09"]
 tags: [ "フランス" ]
 ---
 

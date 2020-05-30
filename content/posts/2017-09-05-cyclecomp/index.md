@@ -3,6 +3,7 @@ title: 最近のサイコンが凄くお値打ちです。（当社比）
 author: irohaka
 type: post
 date: 2017-09-05T04:50:16+00:00
+archives : ["2017/09"]
 url: /2017cyclecomp
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

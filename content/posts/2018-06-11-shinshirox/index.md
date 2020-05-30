@@ -3,6 +3,7 @@ title: シンシロクロスに参加してきました
 author: irohaka
 type: post
 date: 2018-06-11T12:41:21+00:00
+archives : ["2018/06"]
 url: /shinshiro_cross
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

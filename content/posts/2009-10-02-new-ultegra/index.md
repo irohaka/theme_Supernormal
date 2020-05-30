@@ -6,6 +6,7 @@ date: 2009-10-02T10:01:00+09:00
 url: /2009_10_02_6700ultegra
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2009/10"]
 tags: [ "コンポーネント" ]
 ---
 

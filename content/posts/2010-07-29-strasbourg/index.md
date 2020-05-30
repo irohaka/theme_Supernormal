@@ -6,6 +6,7 @@ date: 2010-07-29T23:22:00+09:00
 url: /2010_07_29_strasbourg
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2010/07"]
 tags: [ "フランス" ]
 ---
 

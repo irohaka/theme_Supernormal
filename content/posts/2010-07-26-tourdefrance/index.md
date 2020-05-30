@@ -6,6 +6,7 @@ date: 2010-07-26T04:05:00+09:00
 url: /2010_07_25_tourdefrance
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
+archives : ["2010/07"]
 tags: [ "フランス" ]
 ---
 

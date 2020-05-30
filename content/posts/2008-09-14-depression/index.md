@@ -7,6 +7,7 @@ url: /2008_Depression
 images: ["/images/featured.jpg"]
 featured_image: "images/featured.jpg"
 tags: [ "病気のはなし" ]
+archives : ["2008/08"]
 ---
 
 意外と自転車に乗っている人でうつ病の人がいるような気がします。僕もですけど。  

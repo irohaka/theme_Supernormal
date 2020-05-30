@@ -3,6 +3,7 @@ title: グラベルバイク向けコンポーネント「GRX」登場
 url: /SHIMANO_GRX
 author: irohaka
 date: 2019-05-08T12:21:44+00:00
+archives : ["2019/05"]
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"
 tags : [ "自転車のはなし" , "コンポーネント" ]

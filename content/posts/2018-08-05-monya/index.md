@@ -3,6 +3,7 @@ title: 紋屋へコーヒーを飲みに
 author: irohaka
 type: post
 date: 2018-08-05T09:41:11+00:00
+archives : ["2018/08"]
 url: /coffee_break_okumikawa
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"

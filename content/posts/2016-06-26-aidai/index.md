@@ -3,6 +3,7 @@ title: 愛知大学豊橋キャンパスへ行ってきた
 author: irohaka
 type: post
 date: 2016-06-26T08:35:51+00:00
+archives : ["2016/06"]
 url: /TOEIC_at_aichi_univ
 images: ["images/featured.jpg"]
 featured_image: "images/featured.jpg"
