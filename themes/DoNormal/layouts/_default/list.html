@@ -9,7 +9,7 @@
         <figure>
             {{ $head_img := .Resources.GetMatch "images/featured.jpg" }}
             {{ if $head_img }}
-            {{ $small := $head_img.Fit "300x150 q80" }}
+            {{ $small := $head_img.Fit "300x150 q100" }}
             <img src="{{ $small.RelPermalink }}" width="300px" height="150px" alt="{{ .Title }}">
             {{ else }}
              <img src="/images/eyecache.jpg" width="300px" height="150px" alt="{{ .Title }}">
