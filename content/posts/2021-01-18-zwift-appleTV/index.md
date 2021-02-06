@@ -10,7 +10,7 @@ featured_image: "images/featured.jpg"
 tags: [ "自転車のはなし","Zwift" ]
 ---
 
-最近iPadばかりで動画を見るので、AppleTVをZwiftで再利用することにしました。
+最近iPadばかりで動画を見るので、AppleTVをZwiftで再利用することにしました。  
 <!--more-->
 　  
 
