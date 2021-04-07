@@ -3,16 +3,16 @@
 <p class="description">{{ . }}</p>
 {{ end }}
 <section class="indexpage">
-    {{ $paginator := .Paginate (where .Site.RegularPages.ByDate.Reverse "Section" "posts") 9 }}
+    {{ $paginator := .Paginate (where .Site.RegularPages.ByDate.Reverse "Section" "posts") 8 }}
     {{ range $paginator.Pages }}
 <article class="toplist">
         <figure>
             {{ $head_img := .Resources.GetMatch "images/featured.jpg" }}
             {{ if $head_img }}
-            {{ $small := $head_img.Fit "300x150 q100" }}
-            <img src="{{ $small.RelPermalink }}" width="300px" height="150px" alt="{{ .Title }}">
+            {{ $small := $head_img.Fit "500x250 q100" }}
+            <img src="{{ $small.RelPermalink }}" width="500px" height="250px" alt="{{ .Title }}">
             {{ else }}
-             <img src="/images/eyecache.jpg" width="300px" height="150px" alt="{{ .Title }}">
+             <img src="/images/eyecache.jpg" width="500px" height="250px" alt="{{ .Title }}">
              {{ end }}
         </figure>
         <div class="list-title">
