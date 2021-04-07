@@ -7,7 +7,7 @@ licenselink = "https://github.com/irohaka/DoNormal/master/LICENSE"
 description = "blog theme for hugo"
 tags = "blog"
 min_version = "0.80.0"
-
+disqusShortname = "irohaka"
 
 [author]
   name = "irohaka"
