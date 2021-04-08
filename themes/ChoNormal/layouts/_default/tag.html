@@ -1,0 +1,27 @@
+{{ partial "header.html" . }}
+<div id="content">
+  <section class="taglist">
+    <h3 class="tag">「{{ .Title }}」記事一覧</h3>
+    {{ range .Data.Pages }}
+    <ul id="taglist">
+      <li class="tags">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <div class="meta">{{ .Date.Format " 2006年01月02日" }}</div>
+      </li>
+    </ul>
+    {{ end }}
+    </section>
+    <hr class="dark">
+    <div class="tag-index">
+      <h3 class="tag">タグ一覧</h3>
+      <ul id="taglist">
+        {{- range $termName, $entries := .Site.Taxonomies.tags }}
+        <li class="tag-meta"><a href="{{ "/tags/" | relLangURL }}{{ $termName | urlize }}">{{ $termName }}</a>
+          &nbsp;({{ $entries.Count }})</li>
+        {{- end }}
+      </ul>
+    </div>
+  
+  </div>
+</main>
+{{ partial "footer.html" . }}

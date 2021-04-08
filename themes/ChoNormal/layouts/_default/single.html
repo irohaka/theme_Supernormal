@@ -1,0 +1,48 @@
+{{ define "main" }}
+  <section class="blog-content">
+    <div class="title_line">
+      <h1>{{ .Title }}</h1>
+      <p class="date"> {{ .Date.Format "2006年01月02日" }} </p>
+    </div>
+    <div class="tag_line">
+      {{ with .Params.tags }}
+      <p>タグ：</p>
+      <ul id="tag_pickup">
+        {{- range . -}}
+        <li class="tags"><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+          {{- end -}}
+      </ul>
+      {{ end }}
+    </div>
+    
+  
+    <figure class="featured_img">
+      <img src="images/featured.jpg" alt="{{ .Title}}" width="1280" height="640"></img>
+    </figure>
+    
+  
+    <figure class="socialshare">
+      <!-- AddToAny BEGIN -->
+      <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+        <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+        <a class="a2a_button_twitter"></a>
+        <a class="a2a_button_facebook"></a>
+        <a class="a2a_button_hatena"></a>
+        <a class="a2a_button_line"></a>
+      </div>
+      <script async src="https://static.addtoany.com/menu/page.js"></script>
+      <!-- AddToAny END -->
+    </figure>
+    <article>
+      {{ .Content }}
+    </article>
+    <article class="contentfooter">
+      {{ partial "related.html" .  }}
+    </article>
+    <article class="contentfooter">
+      {{ partial "prev-next" . }}
+    </article>
+  </section>
+ 
+  {{ template "_internal/disqus.html" . }}
+{{ end }}

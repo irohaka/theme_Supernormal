@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2009/12 on イロハカの自転車日記</title>
+    <link>https://www.irohaka.com/archives/2009/12/</link>
+    <description>Recent content in 2009/12 on イロハカの自転車日記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language><atom:link href="https://www.irohaka.com/archives/2009/12/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>年末は深圳で</title>
+      <link>https://www.irohaka.com/2009_12_30_shekou/</link>
+      <pubDate>Wed, 30 Dec 2009 23:20:00 +0900</pubDate>
+      
+      <guid>https://www.irohaka.com/2009_12_30_shekou/</guid>
+      <description>&lt;p&gt;今年の年末は中国で過ごすことにしました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>サイクルモード2009</title>
+      <link>https://www.irohaka.com/2009_12_13_cyclemode2009/</link>
+      <pubDate>Sun, 13 Dec 2009 21:13:00 +0900</pubDate>
+      
+      <guid>https://www.irohaka.com/2009_12_13_cyclemode2009/</guid>
+      <description>&lt;p&gt;幕張メッセで開催された「サイクルモード・インターナショナル」に行ってきました。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2008/09 on イロハカの自転車日記</title>
+    <link>https://www.irohaka.com/archives/2008/09/</link>
+    <description>Recent content in 2008/09 on イロハカの自転車日記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language><atom:link href="https://www.irohaka.com/archives/2008/09/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>クアラルンプール到着</title>
+      <link>https://www.irohaka.com/2008_kul_travel/</link>
+      <pubDate>Tue, 30 Sep 2008 06:02:00 +0900</pubDate>
+      
+      <guid>https://www.irohaka.com/2008_kul_travel/</guid>
+      <description>&lt;p&gt;今日は香港からクアラルンプールへ移動して、無事ホテルにチェックイン。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>香港到着、疲れた・・・。</title>
+      <link>https://www.irohaka.com/2008_hkg-kul/</link>
+      <pubDate>Mon, 29 Sep 2008 00:09:00 +0900</pubDate>
+      
+      <guid>https://www.irohaka.com/2008_hkg-kul/</guid>
+      <description>&lt;p&gt;香港にやってきました。飛行機に乗っただけなのに疲れた・・・。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

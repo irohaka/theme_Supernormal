@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019/12 on イロハカの自転車日記</title>
+    <link>https://www.irohaka.com/archives/2019/12/</link>
+    <description>Recent content in 2019/12 on イロハカの自転車日記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language><atom:link href="https://www.irohaka.com/archives/2019/12/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アップルウォッチでStravaに記録する</title>
+      <link>https://www.irohaka.com/AppleWatch-to-Strava/</link>
+      <pubDate>Sun, 22 Dec 2019 14:30:40 +0900</pubDate>
+      
+      <guid>https://www.irohaka.com/AppleWatch-to-Strava/</guid>
+      <description>&lt;p&gt;最近サイコンを使わずにアップルウォッチでSTRAVAに記録をアップロードしているのが便利なのでまとめてみました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>時は師走、イチョウおじさんと化した。</title>
+      <link>https://www.irohaka.com/yamato-ichou/</link>
+      <pubDate>Mon, 16 Dec 2019 13:16:01 +0900</pubDate>
+      
+      <guid>https://www.irohaka.com/yamato-ichou/</guid>
+      <description>&lt;p&gt;特に理由はなかったのですが、最近はイチョウの色づき具合を定期的に観察しに自転車で通っていました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>牧之原茶畑ライド</title>
+      <link>https://www.irohaka.com/horaibashicycling/</link>
+      <pubDate>Sun, 08 Dec 2019 17:00:00 +0900</pubDate>
+      
+      <guid>https://www.irohaka.com/horaibashicycling/</guid>
+      <description>&lt;p&gt;静岡県の大井川にかかる木造の橋「蓬莱橋」と牧之原台地に広がる茶畑を訪ねてサイクリングしてきました。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

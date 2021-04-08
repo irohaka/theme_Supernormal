@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021/01 on イロハカの自転車日記</title>
+    <link>https://www.irohaka.com/archives/2021/01/</link>
+    <description>Recent content in 2021/01 on イロハカの自転車日記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language><atom:link href="https://www.irohaka.com/archives/2021/01/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AppleTVでZwift</title>
+      <link>https://www.irohaka.com/202101_appletv-zwift/</link>
+      <pubDate>Mon, 18 Jan 2021 20:09:00 +0900</pubDate>
+      
+      <guid>https://www.irohaka.com/202101_appletv-zwift/</guid>
+      <description>&lt;p&gt;最近iPadばかりで動画を見るので、AppleTVをZwiftで再利用することにしました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>謹賀新年</title>
+      <link>https://www.irohaka.com/202101_newyear/</link>
+      <pubDate>Sat, 02 Jan 2021 17:53:00 +0900</pubDate>
+      
+      <guid>https://www.irohaka.com/202101_newyear/</guid>
+      <description>&lt;p&gt;明けましておめでとうございます。本年もよろしくお願いします。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

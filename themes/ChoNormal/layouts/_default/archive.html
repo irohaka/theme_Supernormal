@@ -1,0 +1,14 @@
+  {{ partial "header.html" . }}
+
+  {{ define "main" }}
+  <main>
+    <div id="#content">
+      <ul>
+        {{ range $items := .Site.Taxonomies.archives.Alphabetical.Reverse }}
+          <li><a href="{{ $.Site.BaseURL }}archives/{{ .Name | urlize | lower }}">{{ .Name }} ({{ .Count }})</a></li>
+        {{ end }}
+      </ul>
+    {{ end }}
+    </div>
+  </main>
+  {{ partial "footer.html" . }}

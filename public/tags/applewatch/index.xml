@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AppleWatch on イロハカの自転車日記</title>
+    <link>https://www.irohaka.com/tags/applewatch/</link>
+    <description>Recent content in AppleWatch on イロハカの自転車日記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 22 Dec 2019 14:30:40 +0900</lastBuildDate><atom:link href="https://www.irohaka.com/tags/applewatch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アップルウォッチでStravaに記録する</title>
+      <link>https://www.irohaka.com/AppleWatch-to-Strava/</link>
+      <pubDate>Sun, 22 Dec 2019 14:30:40 +0900</pubDate>
+      
+      <guid>https://www.irohaka.com/AppleWatch-to-Strava/</guid>
+      <description>&lt;p&gt;最近サイコンを使わずにアップルウォッチでSTRAVAに記録をアップロードしているのが便利なのでまとめてみました。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AppleWatchの心拍計をZwiftにリンクさせてみました。</title>
+      <link>https://www.irohaka.com/AppleWatchandZwift/</link>
+      <pubDate>Sun, 06 Jan 2019 13:29:09 +0000</pubDate>
+      
+      <guid>https://www.irohaka.com/AppleWatchandZwift/</guid>
+      <description>&lt;p&gt;AppleWatchのリングを完成させるのが思ったより大変だなぁと思っていたところ、Zwiftの心拍計に使えると記事を読んだので試してみました。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

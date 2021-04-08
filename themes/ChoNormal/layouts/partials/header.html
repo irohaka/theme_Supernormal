@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>{{if .IsHome}}{{ $.Site.Title }}{{else}}{{.Title}}｜{{ $.Site.Title }}{{end}}</title>
+  {{ range .AlternativeOutputFormats -}}
+  <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+  {{ end -}}
+  {{ if .IsHome }}
+  {{ with .Site.Params.description }}
+  <meta name="description" content="{{ . }}">
+  {{ end }}{{ else }}
+  <meta name="description" content="{{ .Summary }}">
+  {{ end }}{{ if .IsHome }}{{ with .Site.Params.tags }}
+  <meta name="keywords" content="{{ . }}">
+  {{ end }}{{ else }}{{ with .Params.tags }}
+  <meta name="keywords" content="{{ . }}">{{ end }}{{ end }}
+  <meta name="robots" content="max-snippet:50, max-image-preview:large">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  {{ partial "opengraph.html" . }}
+  {{ partial "twittercard.html" . }}
+  {{ template "_internal/schema.html" . }}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58799-9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-58799-9');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<style>
+    {{ replaceRE " +" " " (replaceRE "\n" "" (partial "style.css" .)) | safeCSS }}
+    {{ replaceRE " +" " " (replaceRE "\n" "" (partial "drawer.css" .)) | safeCSS }}
+  </style>
+   <link rel="apple-touch-icon" type="image/png" href="/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="/icon-192x192.png">
+</head>
+<body>
+   <header>
+    <div class="header_left">
+    <input type="checkbox" id="menu-toggle" class="menu-checkbox">
+<label for="menu-toggle" class="menu-button"><span></span></label>
+<div class="drawer-menu">
+  <ul>
+    <li><a href="{{ .Site.BaseURL }}">TOPページ</a></li>
+    <li><a href="{{ .Site.BaseURL }}about/">about</a></li>
+    <li><a href="{{ .Site.BaseURL }}tags/自転車のはなし/">自転車のはなし</a></li>
+    <li><a href="{{ .Site.BaseURL }}tags/旅行/">旅行のはなし</a></li>
+    <li><a href="{{ .Site.BaseURL }}privacy_policy/">privacy_policy</a></li>
+  </ul>
+</div>
+</div>
+    <div class="header_center" ><p><a href="{{ .Site.BaseURL }}" ><img class="blogtitle" src="/img/blogtitle.svg"
+          alt="{{ .Site.Title }}"></a></p>
+    </div>
+    <div class="header_right"></div>
+    </header>
+<main>
