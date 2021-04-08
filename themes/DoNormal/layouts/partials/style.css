@@ -147,11 +147,11 @@ html {
     Meiryo,
     sans-serif;
 
-  background: #2c2c2c;
+  background: #ffffff;
   font-size: 17px;
   line-height: 1.8;
   font-style: normal;
-  color: #ccc;
+  color: rgb(0, 0, 0);
   text-align: left;
   text-size-adjust: 100%;
   word-break: normal;
@@ -275,7 +275,7 @@ iframe {
 /********  *header  **********/
 header {
   display: grid;
-  grid-template-columns: 50px 1fr;
+  grid-template-columns: 70px 1fr 70px;
   position: fixed;
   justify-content: space-between;
   width: 100%;
@@ -283,12 +283,12 @@ header {
   clear: both;
   margin-top: 0;
   margin: auto;
-  background: linear-gradient(rgb(11, 11, 11), rgba(11, 11, 11, 0.9));
+  background: linear-gradient(rgb(0, 0, 0), rgba(4, 7, 41, 0.9));
   z-index: 1;
 }
 
 div.header_left{
-  width: 50px;
+  width: 70px;
   height: 74px;
 }
 
@@ -302,7 +302,8 @@ img.blogtitle {
   padding-top: 25px;
   padding-bottom: 20px;
   border: none;
-  justify-content: center;
+  align-self: center;
+  
 }
 
 
@@ -635,10 +636,16 @@ img.amazonimage {
   border:solid 1.5px;
 }
 
-section#disqus {
+#disqus_thread
+ {
   flex-basis: 100%;
   margin-right: 20px;
   margin-left: 20px;
+}
+
+a.dsq-brlink{
+  width:80%;
+  margin-left:20px;
 }
 
 @media screen and (max-width: 673px) {
@@ -711,6 +718,7 @@ section#disqus {
   }
 }
 
+/*
 @media (prefers-color-scheme: light) {
   html {
     background-color: #ccc;
@@ -754,3 +762,4 @@ table th,
 table tr.dark-theme {
   border: solid 1px #777;
 }
+*/
