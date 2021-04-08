@@ -159,19 +159,20 @@ html {
 }
 
 h1 {
-  font-size: 1.4rem;
-  font-weight: 500;
+  font-size: 1.5rem;
+  font-weight: bold;
   padding: 5px 5px 5px 0;
-  line-height: 1.8;
+  line-height: 1.7;
 }
 h2 {
-  font-size: 1.3rem;
-  font-weight: normal;
-  line-height: 1.6;
+  font-size: 1.4rem;
+  font-weight: bold;
+  line-height: 1.7;
 }
 h3 {
+  font-size: 1.3rem;
+  font-weight: bold;
   padding-top: 30px;
-  font-size: 1.2rem;
   line-height: 1.7;
 }
 
@@ -342,7 +343,7 @@ div.tag_line p {
 }
 
 ul#tag_pickup {
-  padding-left: 5px;
+  padding: 0%;
   margin: 0;
   display: flex;
   flex-direction: row;
@@ -359,7 +360,7 @@ li.tags {
   display: flex;
   flex-direction: row;
   align-self: flex-start;
-  margin: 0 10px 4px 20px;
+  margin: 0 12px 4px 2px;
 }
 
 ul#tag_pickup p {
@@ -443,7 +444,7 @@ li.related {
   margin-bottom: 7px;
   line-height: 1.5;
   margin-left: 20px;
-  margin-top: 10px;
+  margin-top: 5px;
   padding: 5px;
 }
 .pagenotfound {
