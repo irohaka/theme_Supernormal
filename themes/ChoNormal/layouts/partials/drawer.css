@@ -28,7 +28,7 @@
   height: 2px;
   width: 100%;
   margin-top: -1px;
-  background-color: #5a5a5a;
+  background-color: #ffffff;
 }
 .menu-button::before {
   top: 0;
@@ -58,12 +58,14 @@
   position: fixed;
   top: 0;
   left: 0;
-  z-index: 200;
+  z-index: 180;
+  
   height: 100%;
   width: 200px;
+  padding-top:70px;
   transform: translateX(-100%);
   transition: .5s;
-  background-color: rgb(126, 126, 126, 0.6);
+  background-color: rgba(65, 65, 65, 0.8);
 }
 .drawer-menu ul {
   margin: 0;
@@ -75,8 +77,10 @@
 }
 .drawer-menu a {
   display: block;
-  padding: 15px;
-  color: #000000;
+  padding: 10px;
+  font-size:16px;
+  color:#fff;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -94,7 +98,7 @@
   z-index: 100;
   height: 100%;
   width: 100%;
-  background-color: rgba(134, 134, 134, 0.5);
+  background-color: rgba(255, 255, 255, 0.2);
   cursor: pointer;
 }
 .menu-checkbox:checked ~ .menu-background {
