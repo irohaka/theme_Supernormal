@@ -199,6 +199,10 @@ a.next {
   font-size: 1.2rem;
   padding: 1rem;
 }
+
+.entry_title a{
+  color:#fff;
+}
 a.title {
   font-size: 20px;
 }
@@ -207,6 +211,7 @@ p.readmore {
 }
 
 a.readmore {
+  color:#fff;
   background-color: rgba(17,17,17,0.6);
   display: inline-block;
   text-align: right;
@@ -704,6 +709,10 @@ a.dsq-brlink{
   .title_line {
     flex-direction: column;
   }
+
+  h2.title a{
+    font-size:1.2rem;
+  }
   h3 {
     padding-top: 30px;
     padding-bottom: 10px;
@@ -726,6 +735,50 @@ a.dsq-brlink{
   main {
     max-width: 97%;
     margin: auto;
+  }
+
+  div.card{
+    font-size: 13px;
+    width:95%;
+    z-index: 90;
+    position:absolute;
+    top: 10px;
+    left:10px;
+    color: #fff;
+    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+  }
+
+  .gradient:after{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 95%;
+    background-image: linear-gradient(
+        321deg,
+        hsla(0, 0%, 0%, 0) 0%,
+        hsla(0, 0%, 0%, 0.02) 14.6%,
+        hsla(0, 0%, 0%, 0.061) 26.8%,
+        hsla(0, 0%, 0%, 0.119) 37.1%,
+        hsla(0, 0%, 0%, 0.193) 45.6%,
+        hsla(0, 0%, 0%, 0.277) 52.6%,
+        hsla(0, 0%, 0%, 0.369) 58.4%,
+        hsla(0, 0%, 0%, 0.466) 63.2%,
+        hsla(0, 0%, 0%, 0.564) 67.4%,
+        hsla(0, 0%, 0%, 0.66) 71.1%,
+        hsla(0, 0%, 0%, 0.75) 74.7%,
+        hsla(0, 0%, 0%, 0.831) 78.5%,
+        hsla(0, 0%, 0%, 0.9) 82.6%,
+        hsla(0, 0%, 0%, 0.953) 87.4%,
+        hsla(0, 0%, 0%, 0.988) 93.1%,
+        hsl(0, 0%, 0%) 100%
+      );
+    }
+
+  article.toplist{
+    margin:0;
+    padding:0;
   }
 
   div.prevnextlink {
