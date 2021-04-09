@@ -10,7 +10,7 @@
             <div class="gradient" style="max-width: 1980px;max-height: 990px;">
              {{ $head_img := .Resources.GetMatch "images/featured.jpg" }}
              {{ if $head_img }}
-             {{ $small := $head_img.Fit "1980x990 q100" }}
+             {{ $small := $head_img.Fit "1980x990 q85" }}
              <a href="{{ .RelPermalink }}"><img class="list_img" src="{{ $small.RelPermalink }}" width="1980px" height="990px" alt="{{ .Title }}"></a>
              {{ else }}
               <a href="{{ .RelPermalink }}"><img class="list_img" src="/images/eyecache.jpg" width="1980px" height="990px" alt="{{ .Title }}"></a>
