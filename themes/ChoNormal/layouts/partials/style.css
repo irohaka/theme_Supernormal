@@ -338,6 +338,7 @@ img.list_img{
   padding: 0;
   max-width :100%;
   max-height: auto;
+  border:solid 1px #ccc
   
 }
 
