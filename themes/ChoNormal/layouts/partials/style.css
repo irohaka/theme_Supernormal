@@ -340,6 +340,7 @@ img.list_img{
 div.card{
   z-index: 90;
   position:absolute;
+  width:93%;
   top: 20px;
   left:30px;
   color: #fff;
@@ -624,8 +625,13 @@ footer {
   font-size: 0.9rem;
   line-height: 2rem;
   margin-top: 30px;
-  margin-bottom: 0;
+  margin-bottom: 70px;
 }
+
+.footer-contents{
+  font-size: 10px;
+}
+
 
 #page_top {
   position: fixed;
@@ -704,14 +710,17 @@ a.dsq-brlink{
 
 @media screen and (max-width: 673px) {
   h1#title {
-    font-size: 1.6rem;
+    font-size: 14px;
   }
   .title_line {
     flex-direction: column;
   }
 
-  h2.title a{
-    font-size:1.2rem;
+  h2.entry_title a{
+    font-size:16px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0;
   }
   h3 {
     padding-top: 30px;
@@ -820,6 +829,9 @@ a.dsq-brlink{
   }
 }
 
+footer{
+  margin-bottom: 50px;;
+}
 /*
 @media (prefers-color-scheme: light) {
   html {
