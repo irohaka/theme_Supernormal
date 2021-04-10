@@ -408,6 +408,7 @@ ul.pagination {
   text-align: center;
 }
 ul.pagination li {
+  font-size: 1.2em;
   list-style: none;
   display: inline;
   align-content: center;
