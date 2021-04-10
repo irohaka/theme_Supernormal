@@ -145,14 +145,15 @@ html {
     Meiryo,
     sans-serif;
   background: #ffffff;
-  font-size: 1.1rem;
-  line-height: 1.5;
+  font-size: 1.05rem;
+  line-height: 200%;
   font-style: normal;
   color: rgb(0, 0, 0);
   text-align: left;
   text-size-adjust: 100%;
   word-break: normal;
   line-break: strict;
+  visibility: visible;
   text-align: justify;
   text-justify: inter-ideograph;
   font-feature-settings: "pwid";
