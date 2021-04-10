@@ -7,21 +7,22 @@
     {{ range $paginator.Pages }}
     <article class="toplist">
         <figure>
-            <div class="gradient" style="max-width: 1250px; max-height: 620px;">
-             {{ $head_img := .Resources.GetMatch "images/featured.jpg" }}
-             {{ if $head_img }}
-             {{ $small := $head_img.Fit "1250x625 q85" }}
-             <a href="{{ .RelPermalink }}"><img class="list_img" src="{{ $small.RelPermalink }}" width="1980px" height="990px" alt="{{ .Title }}"></a>
-             {{ else }}
-              <a href="{{ .RelPermalink }}"><img class="list_img" src="/images/eyecache.jpg" width="1980px" height="990px" alt="{{ .Title }}"></a>
-              {{ end }}
-            </div>
-             <div class="card"> <h2 class="entry_title"><a href="{{ .RelPermalink }}" title="{{ .Title }}" >{{ .Title }}</a></h2>
-                <time>{{.Date.Format "2006年01月02日"}}</time>
-                <p>{{ .Summary }}</p>    
-                <p class="readmore"><a class="readmore" href="{{ .RelPermalink }}" title="「{{ .Title }}」この日記を読む">この日記を読む</a><p>
-            </div>
+            {{ $head_img := .Resources.GetMatch "images/featured.jpg" }}
+            {{ if $head_img }}
+            {{ $small := $head_img.Fit "500x250 q100" }}
+            <img src="{{ $small.RelPermalink }}" width="500px" height="250px" alt="{{ .Title }}">
+            {{ else }}
+             <img src="/images/eyecache.jpg" width="500px" height="250px" alt="{{ .Title }}">
+             {{ end }}
         </figure>
+        <div class="list-title">
+        <h2><a href="{{ .RelPermalink }}" title="{{ .Title }}" >{{ .Title }}</a></h2>
+        </div>
+        <time>{{.Date.Format "2006年01月02日"}}</time>
+         <div class="readmore">
+         <p>{{ .Summary }}</p>    
+         <p class="readmore"><a class="readmore" href="{{ .RelPermalink }}" title="「{{ .Title }}」の続きを読む">続きを読む</a><p>
+         </div>
     </article> 
     {{ end }}
 </section>   

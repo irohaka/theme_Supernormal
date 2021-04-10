@@ -44,9 +44,7 @@ sub {
 sup {
   top: -0.5em;
 }
-img {
-  border-style: none;
-}
+
 button,
 input,
 optgroup,
@@ -201,8 +199,7 @@ a.next {
 }
 
 .entry_title a{
-  color:#fff;
-  text-shadow: 6px 6px 13px rgba(0, 0, 0, 0.8);
+  color:rgb(47, 156, 245);
 }
 a.title {
   font-size: 20px;
@@ -210,10 +207,9 @@ a.title {
 
 
 a.readmore {
-  color:#fff;
-  background-color: rgba(17,17,17,0.2);
+  color:rgb(47, 156, 245);
   display: inline-block;
-  border: solid 1px;
+  border: solid 1px rgba(47,156,245);
   margin-top: 5px;
   padding-right: 10px;
   padding-left: 10px;
@@ -323,25 +319,15 @@ img.blogtitle {
 
 
 /*****  *taglist  ****/
-figure{
-  position: relative;
-  width:100%;
-  height:100%;
-}
 
-figure img{
-  object-fit: cover;
-}
 
-img.list_img{
+img{
   margin: 0;
   padding: 0;
-  max-width :100%;
-  max-height: auto;
-  border:solid 1px #ccc
+  border:solid 1px #aaa
   
 }
-
+/*
 div.card{
   z-index: 90;
   position:absolute;
@@ -351,7 +337,7 @@ div.card{
   color:#fff;
   text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.9);
 }
-
+*/
 
 
 section.taglist {
@@ -430,13 +416,15 @@ footer {
 }
 
 section.indexpage {
-  max-width: 2090px;
+  max-width: 98%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
   align-self: center;
 }
 
 article.toplist {
-  max-width: 1980px;
-  max-height: 990;
+  max-width: 500px;
   margin: 50px 0px 0px 0px;
   padding: 15px;
 }
@@ -554,17 +542,13 @@ figure.featured_img {
   margin: auto;
   padding: 10px 0px 30px 0px;
 }
-img {
-  max-width: 100%;
-  height: auto;
-  padding: 0.1px;
-  margin-top: 10px;
-  margin-bottom: 0;
-}
+
+
 figcaption {
   margin-top: 0;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
+
 table {
   width: 100%;
   margin-top: 15px;
