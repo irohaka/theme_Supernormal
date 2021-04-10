@@ -144,16 +144,18 @@ html {
     "Hiragino Sans",
     Meiryo,
     sans-serif;
-
   background: #ffffff;
-  font-size: 17px;
+  font-size: 1.1rem;
   line-height: 1.5;
   font-style: normal;
   color: rgb(0, 0, 0);
   text-align: left;
   text-size-adjust: 100%;
   word-break: normal;
-  transition: 0.5s;
+  line-break: strict;
+  text-align: justify;
+  text-justify: inter-ideograph;
+  font-feature-settings: "pwid";
 }
 
 h1 {
@@ -183,11 +185,11 @@ h4 {
 
 a {
   text-decoration: none;
-  color: #0898c4;
+  color: #008dc5;
 }
 a:hover {
   text-decoration: none;
-  color: #42bbe0;
+  color: #059fce;
 }
 a.previous {
   font-size: 1.2rem;
@@ -322,6 +324,8 @@ img.blogtitle {
 
 
 img{
+  max-width: 100%;
+  max-height: 100%;
   margin: 0;
   padding: 0;
   border:solid 1px #aaa
@@ -462,11 +466,11 @@ li.related::before {
 li.related {
   text-decoration: none;
   list-style: none;
-  margin-bottom: 7px;
+  margin-bottom: 2px;
   line-height: 1.5;
   margin-left: 20px;
-  margin-top: 5px;
-  padding: 5px;
+  margin-top: 2px;
+  padding: 2px;
 }
 .pagenotfound {
   text-align: center;
@@ -496,23 +500,18 @@ ul.pagination {
 div.prevnextlink {
   margin-top: 30px;
   margin-bottom: 30px;
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  justify-content: space-between;
   font-size: 16px;
   line-height: 2rem;
 }
 div.prevlink {
   text-align: right;
-  align-items: right;
   padding: 10px;
 }
+
 div.nextlink {
-  text-align: left;
-  align-items: left;
   padding: 10px;
 }
+
 footer,
 nav {
   text-align: center;
@@ -586,14 +585,10 @@ hr.dark {
 
 footer {
   text-align: center;
-  font-size: 0.9rem;
   line-height: 2rem;
   margin-top: 30px;
   margin-bottom: 70px;
-}
-
-.footer-contents{
-  font-size: 10px;
+  font-size: 12px;
 }
 
 
@@ -738,25 +733,19 @@ a.dsq-brlink{
   div.prevnextlink {
     margin-top: 30px;
     margin-bottom: 30px;
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: space-between;
-    font-size: 14px;
-    line-height: 1.4rem;
+    font-size: 16px;
+    line-height: 2rem;
   }
   div.prevlink {
     text-align: right;
-    align-items: right;
-    padding-bottom: 5px;
-    padding-top: 5px;
+    padding: 10px;
   }
+  
   div.nextlink {
-    text-align: left;
-    align-items: left;
-    padding-bottom: 5px;
-    padding-top: 5px;
+    padding: 10px;
   }
+  
+
   div.list-title {
     flex-direction: column;
   }
