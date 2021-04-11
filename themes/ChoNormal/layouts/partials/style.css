@@ -722,11 +722,11 @@ a.dsq-brlink{
 
 
   img{
-    max-width:98%;
+    max-width:100%;
   }
 
   article.toplist{
-    margin:0;
+    margin:7px;
     padding:0;
   }
 
