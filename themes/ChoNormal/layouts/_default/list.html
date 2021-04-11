@@ -9,20 +9,22 @@
         <figure>
             {{ $head_img := .Resources.GetMatch "images/featured.jpg" }}
             {{ if $head_img }}
-            {{ $small := $head_img.Fit "500x250 q100" }}
-            <img src="{{ $small.RelPermalink }}" max-width="500px" max-height="250px" alt="{{ .Title }}">
+            {{ $small := $head_img.Fit "480x240 q100" }}
+            <img src="{{ $small.RelPermalink }}" max-width="480px" max-height="240px" alt="{{ .Title }}">
             {{ else }}
-             <img src="/images/eyecache.jpg" max-width="500px" max-height="250px" alt="{{ .Title }}">
+             <img src="/images/eyecache.jpg" max-width="480px" max-height="240px" alt="{{ .Title }}">
              {{ end }}
         </figure>
-        <div class="list-title">
-        <h2><a href="{{ .RelPermalink }}" title="{{ .Title }}" >{{ .Title }}</a></h2>
+        <div class="card">
+          <div class="list-title">
+           <h2><a href="{{ .RelPermalink }}" title="{{ .Title }}" >{{ .Title }}</a></h2>
+          </div>
+          <time>{{.Date.Format "2006年01月02日"}}</time>
+          <div class="summary">
+           <p>{{ .Summary }}</p>    
+           <p class="readmore"><a class="readmore" href="{{ .RelPermalink }}" title="「{{ .Title }}」の続きを読む">続きを読む</a><p>
+          </div>
         </div>
-        <time>{{.Date.Format "2006年01月02日"}}</time>
-         <div class="readmore">
-         <p>{{ .Summary }}</p>    
-         <p class="readmore"><a class="readmore" href="{{ .RelPermalink }}" title="「{{ .Title }}」の続きを読む">続きを読む</a><p>
-         </div>
     </article> 
     {{ end }}
 </section>   
