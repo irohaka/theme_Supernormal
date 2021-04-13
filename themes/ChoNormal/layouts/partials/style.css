@@ -447,9 +447,9 @@ div.title_line {
   line-height: 1.5rem;
   align-items: baseline;
 }
-div.list-title {
-  line-height: 1;
+div.list-title h2{
   padding-left: 10px;
+  padding-right: 10px;
 }
 
 li {
@@ -478,6 +478,8 @@ div.pagination {
   font-style: normal;
   flex-basis: 100%;
   padding-top: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
   margin: auto;
 }
 
