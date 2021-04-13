@@ -15,17 +15,11 @@
             <a href="{{ .RelPermalink }}" title="{{ .Title }}"><img src="/images/eyecache.jpg" max-width="480px" max-height="240px" alt="{{ .Title }}"></a>
              {{ end }}
         </figure>
-        <div class="card">
-          <div class="list-title">
+           <div class="list-title">
            <h2><a href="{{ .RelPermalink }}" title="{{ .Title }}" >{{ .Title }}</a></h2>
-          </div>
           <time>{{.Date.Format "2006年01月02日"}}</time>
-          <!--
-              <div class="summary">
-           <p>{{ .Summary }}</p>    
-           <p class="readmore"><a class="readmore" href="{{ .RelPermalink }}" title="「{{ .Title }}」の続きを読む">続きを読む</a><p>
-          </div> -->
-        </div>
+          <a class="summary" href="{{ .RelPermalink }}" title="{{ .Summary }}"><p>{{ .Summary }}</p></a>
+          </div>
     </article> 
     {{ end }}
 </section>   
