@@ -31,8 +31,8 @@
 
   gtag('config', 'UA-58799-9');
 </script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
 <style>
+    {{ replaceRE " +" " " (replaceRE "\n" "" (partial "reseter.min.css" .)) | safeCSS }}
     {{ replaceRE " +" " " (replaceRE "\n" "" (partial "style.css" .)) | safeCSS }}
     {{ replaceRE " +" " " (replaceRE "\n" "" (partial "drawer.css" .)) | safeCSS }}
   </style>
